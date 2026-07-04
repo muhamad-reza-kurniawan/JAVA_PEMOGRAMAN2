@@ -1,0 +1,5 @@
+com\hotel\reservasi\Reservasi.class
+com\hotel\reservasi\ReservasiController.class
+com\hotel\reservasi\ReservasiService.class
+com\hotel\reservasi\ReservasiApplication.class
+com\hotel\reservasi\ReservasiRepository.class
